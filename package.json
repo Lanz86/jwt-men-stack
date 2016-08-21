@@ -1,7 +1,7 @@
 {
-  "name": "men-stack",
+  "name": "jwt-men-stack",
   "version": "1.0.0",
-  "description": "Backend MEN Stack Skeleton",
+  "description": "JWT MEN Stack",
   "main": "server.js",
   "scripts": {
     "babel": "babel src --out-dir bin",
