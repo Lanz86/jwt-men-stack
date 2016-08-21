@@ -24,8 +24,6 @@ coverage
 # node-waf configuration
 .lock-wscript
 
-bin
-
 # Dependency directories
 node_modules
 jspm_packages
@@ -35,3 +33,7 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+
+#compiled application
+bin/
